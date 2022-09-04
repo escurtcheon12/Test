@@ -1,2 +1,0 @@
-Menambah File 2.txt
-Menambah baris di file 2.txt
